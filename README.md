@@ -86,5 +86,6 @@ Equal-Weight,18.66%,1.198,18.40%
   type={Master Thesis},
   address={Aachen, Germany},
   note={1st Examiner: Dr. sc. pol. Thomas Lontzek; 2nd Examiner: Dr. rer. pol. Sven M{\"u}ller}
+  linkedin=https://www.linkedin.com/in/ganesh-nsbp
 }
 
