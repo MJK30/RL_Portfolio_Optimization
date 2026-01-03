@@ -62,3 +62,29 @@ Based on historical simulations, the hybrid PPO-Robust strategy shows competitiv
 Strategy,Annual Return,Sharpe Ratio,Max Drawdown
 PPO Agent (Robust),19.03%,0.909,25.59%
 Equal-Weight,18.66%,1.198,18.40%
+
+
+
+# References
+
+@book{cornuejols2006optimization,
+  title={Optimization Methods in Finance},
+  author={Cornu{\'e}jols, G{\'e}rard and T{\"u}t{\"u}nc{\"u}, Reha},
+  year={2006},
+  month={January},
+  publisher={Carnegie Mellon University},
+  address={Pittsburgh, PA}
+}
+
+
+@mastersthesis{ganesh2025reinforcement,
+  title={Reinforcement Learning Meets Robust Portfolio Optimization: A Dynamic Approach to Risk-Aware Asset Allocation},
+  author={Ganesh, Nimmagadda Sai Bhanu Prasanna},
+  year={2025},
+  month={April},
+  school={RWTH Aachen University},
+  type={Master Thesis},
+  address={Aachen, Germany},
+  note={1st Examiner: Dr. sc. pol. Thomas Lontzek; 2nd Examiner: Dr. rer. pol. Sven M{\"u}ller}
+}
+
