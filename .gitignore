@@ -1,0 +1,48 @@
+# environment & secrets
+.env
+.env.*
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenvs
+venv/
+env/
+.venv/
+
+# data (adjust if you want some sample files tracked)
+data/*.csv
+data/*.pkl
+data/*.h5
+
+# jupyter
+.ipynb_checkpoints/
+.ipython/
+
+# tests / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# build / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# IDEs
+.vscode/
+.idea/
+
+# logs & outputs
+logs/
+*.log
+models/
+checkpoints/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
